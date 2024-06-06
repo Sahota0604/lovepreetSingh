@@ -1,0 +1,15 @@
+header {
+    text-align: center;
+    padding: 50px;
+    background: #f4f4f4;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+h2 {
+    margin-top: 30px;
+}
